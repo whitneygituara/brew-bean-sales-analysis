@@ -1,0 +1,46 @@
+Employee_ID,Employee_Name,Branch_ID,Branch_Name,Job_Role,Hire_Date,Monthly_Salary_KES
+E0001,Mr. Nathaniel Khan,BR001,Westlands,Branch Manager,2025-07-21,95000
+E0002,Richard Aguirre,BR001,Westlands,Supervisor,2022-04-09,70000
+E0003,Matthew Gomez,BR001,Westlands,Barista,2024-02-24,38000
+E0004,Nicholas Nunez,BR001,Westlands,Barista,2026-02-23,38000
+E0005,James Morgan,BR001,Westlands,Barista,2021-07-31,38000
+E0006,Connor West,BR001,Westlands,Cashier,2024-03-28,35000
+E0007,Joel Baxter,BR001,Westlands,Cashier,2021-04-17,35000
+E0008,Scott Pierce,BR001,Westlands,Kitchen Staff,2021-01-30,34000
+E0009,Kimberly Smith,BR001,Westlands,Kitchen Staff,2021-06-11,34000
+E0010,Sarah Martin,BR002,Karen,Branch Manager,2024-10-12,95000
+E0011,Dr. Steven Martin,BR002,Karen,Supervisor,2020-09-01,70000
+E0012,Mrs. Rachel Gibson,BR002,Karen,Barista,2024-04-01,38000
+E0013,Monica Logan,BR002,Karen,Barista,2026-04-13,38000
+E0014,Brittney Phillips,BR002,Karen,Barista,2021-02-23,38000
+E0015,Kimberly Adkins,BR002,Karen,Cashier,2021-02-19,35000
+E0016,John Calhoun,BR002,Karen,Cashier,2025-03-03,35000
+E0017,Tyler Miller,BR002,Karen,Kitchen Staff,2022-03-26,34000
+E0018,Barry Hensley,BR002,Karen,Kitchen Staff,2024-02-01,34000
+E0019,Steve Sanchez,BR003,Kilimani,Branch Manager,2025-09-16,95000
+E0020,Bradley Sandoval,BR003,Kilimani,Supervisor,2025-06-17,70000
+E0021,Taylor Harris,BR003,Kilimani,Barista,2023-04-29,38000
+E0022,James Powers,BR003,Kilimani,Barista,2023-03-16,38000
+E0023,Timothy Walls,BR003,Kilimani,Barista,2020-09-23,38000
+E0024,Zachary Ferrell,BR003,Kilimani,Cashier,2021-04-10,35000
+E0025,Katie Anderson,BR003,Kilimani,Cashier,2023-08-15,35000
+E0026,Sherry Wood,BR003,Kilimani,Kitchen Staff,2021-12-29,34000
+E0027,Joshua Turner,BR003,Kilimani,Kitchen Staff,2026-03-19,34000
+E0028,Mary Spencer,BR004,CBD,Branch Manager,2026-04-18,95000
+E0029,Shawn Baker,BR004,CBD,Supervisor,2021-07-24,70000
+E0030,Brittney Campbell,BR004,CBD,Barista,2022-06-11,38000
+E0031,Christina Walters,BR004,CBD,Barista,2022-11-24,38000
+E0032,Danielle Odonnell,BR004,CBD,Barista,2021-01-30,38000
+E0033,Jeff Hill,BR004,CBD,Cashier,2020-09-06,35000
+E0034,Carlos Whitney,BR004,CBD,Cashier,2022-01-10,35000
+E0035,Kristen Patterson,BR004,CBD,Kitchen Staff,2020-09-25,34000
+E0036,Tony Vazquez,BR004,CBD,Kitchen Staff,2021-12-02,34000
+E0037,Sandra Aguilar,BR005,Runda,Branch Manager,2021-11-29,95000
+E0038,Andrew Diaz,BR005,Runda,Supervisor,2020-12-27,70000
+E0039,Christine Wright,BR005,Runda,Barista,2021-07-11,38000
+E0040,Justin Baxter,BR005,Runda,Barista,2025-12-06,38000
+E0041,Tammy Young,BR005,Runda,Barista,2022-01-12,38000
+E0042,Rita Keith,BR005,Runda,Cashier,2020-11-11,35000
+E0043,Tim Patton,BR005,Runda,Cashier,2024-02-26,35000
+E0044,Sharon Cochran,BR005,Runda,Kitchen Staff,2022-12-02,34000
+E0045,Michael Reyes,BR005,Runda,Kitchen Staff,2020-12-24,34000

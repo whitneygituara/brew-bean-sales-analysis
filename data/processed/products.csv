@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Price_KES,Available_All_Year,Calories
+P001,Espresso,Coffee,220,True,5
+P002,Americano,Coffee,250,True,8
+P003,Cappuccino,Coffee,350,True,180
+P004,Latte,Coffee,380,True,210
+P005,Vanilla Latte,Coffee,420,True,260
+P006,Mocha,Coffee,400,True,240
+P007,Hot Chocolate,Non-Coffee,340,True,300
+P008,Chai Latte,Non-Coffee,330,True,250
+P009,Blueberry Muffin,Pastry,280,True,420
+P010,Chocolate Croissant,Pastry,300,True,480
+P011,Chicken Sandwich,Food,550,True,650
+P012,Cheesecake,Dessert,450,True,510
