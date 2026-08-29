@@ -1,0 +1,6 @@
+Branch_ID,Branch_Name,City,Area_Type,Seating_Capacity,Manager,Opening_Year
+BR001,Westlands,Nairobi,Commercial,70,Grace Mwangi,2018
+BR002,Karen,Nairobi,Residential,55,Peter Otieno,2020
+BR003,Kilimani,Nairobi,Mixed,65,Diana Wanjiku,2019
+BR004,CBD,Nairobi,Business District,90,Kevin Maina,2016
+BR005,Runda,Nairobi,Residential,45,Faith Njeri,2021

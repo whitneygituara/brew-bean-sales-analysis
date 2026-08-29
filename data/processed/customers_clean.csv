@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Age,Gender,Customer_Type,Preferred_Branch,Loyalty_Member,Join_Date
+C00001,Courtney Velasquez,19,Female,Professional,Karen,Yes,2025-07-26
+C00002,Robert Savage,61,Male,Remote Worker,Runda,Yes,2023-07-19
+C00003,Corey Murphy,31,Male,Student,Runda,Yes,2022-03-29
+C00004,Diana May,63,Female,Professional,Karen,Yes,2025-01-18
+C00005,Sarah Rivera,18,Male,Student,CBD,Yes,2021-11-19
+C00006,Wesley White,39,Male,Student,Westlands,Yes,2023-11-28
+C00007,Kyle Reed,40,Female,Professional,Westlands,No,2024-04-26
+C00008,William Wilson,42,Male,Professional,Runda,Yes,2026-07-22
+C00009,Andrew Graham,41,Male,Professional,Westlands,Yes,2026-01-27
+C00010,Kimberly Ball,36,Male,Student,Karen,No,2023-04-30
+C00011,Benjamin Beck,47,Female,Professional,Karen,Yes,2024-06-16
+C00012,Mary Martinez,35,Male,Student,Runda,Yes,2024-03-16
+C00013,Mary Nguyen,33,Male,Professional,CBD,Yes,2024-03-01
+C00014,Cheryl Ortega,58,Male,Regular,Kilimani,No,2024-11-15
+C00015,Stephanie Gilbert,32,Male,Remote Worker,Kilimani,Yes,2024-03-18
+C00016,Roy Torres,54,Female,Student,Karen,No,2023-06-10
+C00017,Kevin Pena,59,Female,Professional,Karen,Yes,2025-08-09
+C00018,Michael Dixon,53,Female,Student,Runda,Yes,2023-02-04
+C00019,Diane Beck,41,Male,Professional,Karen,Yes,2024-07-02
+C00020,Trevor Young,21,Male,Student,Karen,Yes,2024-04-16
+C00021,Curtis Johnson,45,Male,Remote Worker,CBD,Yes,2023-09-25
+C00022,Miss Patricia Gibson,51,Female,Regular,Runda,No,2026-07-19
+C00023,Michael Snyder,64,Male,Student,Runda,No,2023-09-23
+C00024,Michael Stafford,39,Male,Remote Worker,Kilimani,Yes,2022-07-23
+C00025,Colleen Brock,64,Female,Professional,Runda,No,2026-01-21
+C00026,Justin Lowery,24,Female,Professional,Runda,Yes,2022-09-07
+C00027,Robert Contreras,28,Male,Student,Runda,Yes,2026-05-28
+C00028,Tiffany Vance,41,Female,Student,Karen,Yes,2025-12-11
+C00029,Terry Griffin,23,Male,Regular,CBD,No,2023-01-02
+C00030,Karen Green,52,Male,Regular,Karen,No,2023-10-03
+C00031,Destiny Strickland,28,Female,Regular,Runda,No,2025-10-09
+C00032,Denise Jones,31,Male,Professional,Kilimani,Yes,2024-01-30
+C00033,George Orozco,41,Female,Remote Worker,Runda,Yes,2022-05-03
+C00034,David Benson,22,Female,Student,Westlands,Yes,2023-06-21
+C00035,Jason Daniels,32,Male,Student,Westlands,No,2025-03-09
+C00036,Ross Price,22,Male,Student,Kilimani,Yes,2026-08-14
+C00037,Alicia Gilmore,60,Female,Student,Karen,Yes,2026-07-19
+C00038,Aaron Bell,54,Female,Remote Worker,Karen,No,2024-12-19
+C00039,Tiffany Barnes,30,Male,Tourist,Westlands,No,2026-04-18
+C00040,Stephanie Freeman,44,Female,Professional,Westlands,No,2023-12-21
+C00041,Allen Rogers,24,Male,Regular,CBD,No,2025-02-02
+C00042,Sara Calhoun,24,Male,Tourist,Karen,Yes,2026-03-12
+C00043,James Elliott,45,Male,Professional,Kilimani,Yes,2021-11-18
+C00044,Jeffrey Camacho,22,Female,Regular,Runda,Yes,2023-03-13
+C00045,James Lewis,52,Male,Remote Worker,Westlands,No,2024-06-06
+C00046,Shawn Ramirez,28,Female,Tourist,CBD,Yes,2025-03-27
+C00047,Bradley Smith,21,Male,Regular,CBD,Yes,2026-03-28
+C00048,Trevor Walker,47,Female,Professional,CBD,No,2022-03-27
+C00049,Marissa Webster,53,Female,Remote Worker,Karen,Yes,2023-10-03
+C00050,Alex Hernandez,21,Male,Student,Kilimani,Yes,2022-09-22
+C00051,Brian Gould,50,Male,Professional,Westlands,No,2025-08-09
+C00052,Pamela Jackson,29,Male,Student,Runda,Yes,2022-08-16
+C00053,Carla Collins,43,Male,Regular,Runda,Yes,2026-07-28
+C00054,Eric Byrd,57,Male,Professional,CBD,No,2024-11-04
+C00055,Miguel Jones,38,Female,Professional,Karen,No,2023-09-19
+C00056,Raymond Jefferson,34,Female,Professional,Karen,No,2022-09-06
+C00057,Kylie Williams,38,Male,Student,Westlands,Yes,2026-03-08
+C00058,Jacob Hunter,24,Male,Regular,Runda,Yes,2024-07-21
+C00059,Jason Henry,40,Male,Student,Karen,Yes,2025-05-03
+C00060,Madison Poole,52,Female,Student,Runda,No,2022-12-14
+C00061,Nicholas Sheppard,51,Male,Tourist,Runda,Yes,2023-12-13
+C00062,Tamara Hampton,26,Female,Remote Worker,Westlands,No,2025-08-09
+C00063,Nicholas Adams,27,Female,Remote Worker,Kilimani,Yes,2023-09-27
+C00064,Angelica Keith,31,Female,Remote Worker,Runda,Yes,2023-09-22
+C00065,Laura Barnett,21,Male,Regular,CBD,No,2024-07-06
+C00066,Samuel White,39,Male,Student,Kilimani,Yes,2023-06-16
+C00067,David Ramirez,63,Female,Professional,Runda,Yes,2024-01-01
+C00068,Kellie Lee,62,Male,Student,Runda,Yes,2023-09-14
+C00069,Katherine Chang,53,Male,Professional,CBD,Yes,2025-09-13
+C00070,Katherine Mcguire,20,Female,Professional,Karen,No,2022-06-11
+C00071,Jared Sanchez,40,Female,Remote Worker,Runda,No,2026-08-06
+C00072,Juan Cooper,33,Male,Regular,Karen,No,2026-05-01
+C00073,Michael Nelson,65,Female,Student,CBD,No,2023-10-16
+C00074,Nathan Stewart,33,Female,Regular,Karen,No,2026-03-17
+C00075,Melissa Lee,20,Female,Student,Karen,Yes,2025-10-08
+C00076,Kevin Wolf,40,Female,Regular,Karen,Yes,2024-01-22
+C00077,Dr. Elizabeth Ward,43,Female,Remote Worker,Kilimani,No,2024-03-22
+C00078,Joseph Hill,35,Female,Regular,Runda,Yes,2022-02-11
+C00079,Melissa Martinez,52,Female,Regular,Westlands,Yes,2025-10-29
+C00080,Adam Mitchell,29,Female,Regular,Westlands,Yes,2025-09-21
+C00081,Cody Williams,64,Female,Professional,CBD,Yes,2025-09-18
+C00082,Austin Vasquez,42,Male,Professional,Kilimani,Yes,2026-07-23
+C00083,Amy Hernandez,51,Male,Professional,Kilimani,Yes,2026-06-09
+C00084,Angela Wright,39,Female,Regular,Westlands,No,2026-05-25
+C00085,Lisa Gibbs,37,Female,Professional,Kilimani,Yes,2023-07-28
+C00086,Jamie Kerr,26,Male,Student,CBD,No,2024-03-06
+C00087,Wanda Torres,65,Male,Professional,Runda,Yes,2022-03-01
+C00088,Natalie Meza,18,Female,Professional,Kilimani,Yes,2023-06-02
+C00089,Deborah Miller,56,Female,Remote Worker,CBD,Yes,2023-09-10
+C00090,Benjamin Smith,50,Female,Remote Worker,Karen,No,2025-06-25
+C00091,Julie Johnson,60,Female,Student,Westlands,No,2024-02-07
+C00092,Michele Gibson,61,Female,Remote Worker,Karen,No,2023-08-21
+C00093,Rachel Weber,20,Male,Student,CBD,Yes,2023-05-02
+C00094,Joshua Holland,47,Female,Remote Worker,Runda,Yes,2023-11-29
+C00095,Andrea Martin,49,Female,Remote Worker,Karen,Yes,2024-04-07
+C00096,Samantha Morse,24,Female,Remote Worker,Karen,Yes,2025-05-21
+C00097,Michael Lyons,51,Female,Regular,Westlands,Yes,2023-12-19
+C00098,Katherine Miller,25,Female,Regular,Karen,No,2021-12-27
+C00099,Morgan Munoz,53,Female,Remote Worker,CBD,Yes,2021-11-14
+C00100,Vernon Huff,50,Female,Remote Worker,Runda,Yes,2026-07-18
+C00101,Alicia Hubbard,48,Female,Student,Kilimani,No,2023-12-11
+C00102,Pamela Thompson,35,Female,Tourist,Karen,Yes,2026-01-24
+C00103,Sydney White,36,Male,Student,Kilimani,Yes,2026-08-18
+C00104,Robert Costa,23,Male,Regular,Karen,Yes,2025-08-25
+C00105,Gary Santiago,63,Male,Remote Worker,Westlands,Yes,2023-01-07
+C00106,Michael Roberts,47,Female,Professional,Westlands,Yes,2025-01-21
+C00107,Krista Gibson,55,Male,Professional,Runda,Yes,2024-04-29
+C00108,Brian Barton,40,Female,Student,CBD,No,2026-01-10
+C00109,April Booth,44,Male,Regular,CBD,Yes,2025-07-31
+C00110,Cody Cox,19,Female,Professional,Kilimani,No,2025-11-21
+C00111,Olivia Harris,64,Male,Remote Worker,CBD,No,2026-04-28
+C00112,Dwayne Gilmore,52,Male,Regular,CBD,Yes,2025-10-09
+C00113,William Lynch,23,Female,Remote Worker,Karen,No,2023-09-08
+C00114,Emily Smith,34,Female,Student,Kilimani,Yes,2025-02-13
+C00115,Willie Durham,42,Female,Professional,CBD,Yes,2025-07-29
+C00116,Maria Moore,19,Male,Student,Kilimani,Yes,2024-02-18
+C00117,Denise Davenport,59,Male,Student,Westlands,No,2025-09-01
+C00118,Juan Reyes,19,Male,Student,Karen,Yes,2025-12-22
+C00119,Breanna Jones,54,Male,Remote Worker,CBD,No,2025-03-07
+C00120,Richard Adams,28,Male,Remote Worker,Karen,No,2021-09-02
+C00121,Edwin Matthews,19,Female,Student,Runda,No,2025-10-25
+C00122,Jill Washington,43,Male,Regular,Westlands,Yes,2024-06-23
+C00123,Kimberly Gibson,33,Male,Tourist,Kilimani,No,2024-05-21
+C00124,Veronica Allen,25,Male,Professional,Kilimani,Yes,2024-11-27
+C00125,Reginald Williams,22,Female,Remote Worker,Westlands,No,2025-09-03
+C00126,Roberta Hughes,24,Female,Tourist,Kilimani,Yes,2022-12-11
+C00127,Andrew Shaw MD,63,Male,Tourist,CBD,Yes,2022-07-03
+C00128,Jessica Fox,59,Female,Professional,Runda,No,2025-07-15
+C00129,Charles Pitts,48,Female,Professional,CBD,No,2022-12-18
+C00130,Richard Baker,38,Male,Professional,Westlands,Yes,2025-01-11
+C00131,Sarah Phelps,47,Female,Professional,Kilimani,Yes,2026-03-10
+C00132,Eugene Higgins,29,Female,Regular,Karen,Yes,2025-10-20
+C00133,Amanda Jones,35,Female,Student,Runda,Yes,2024-02-04
+C00134,Nicole Hamilton MD,23,Male,Regular,CBD,Yes,2022-07-04
+C00135,Michael Berger,62,Female,Remote Worker,CBD,Yes,2022-01-15
+C00136,Anthony Howard,36,Male,Student,CBD,No,2025-04-25
+C00137,Joseph Knight,55,Female,Professional,CBD,Yes,2023-03-08
+C00138,Bob Pitts,65,Female,Professional,Kilimani,No,2023-09-13
+C00139,Mr. David Little MD,34,Male,Student,Westlands,No,2021-09-24
+C00140,Julie Roberts,65,Male,Professional,Karen,Yes,2026-04-20
+C00141,Jeremy Reed,64,Female,Professional,Westlands,No,2026-08-25
+C00142,Victor Vaughn,41,Male,Student,Kilimani,Yes,2025-07-15
+C00143,Christina Cruz,35,Male,Professional,Westlands,Yes,2025-10-05
+C00144,James Howard,26,Female,Remote Worker,Westlands,No,2024-03-02
+C00145,Elizabeth Spence DDS,48,Female,Professional,CBD,Yes,2023-12-26
+C00146,Sean Osborne,34,Female,Regular,Westlands,No,2022-01-25
+C00147,Natasha Wall,22,Male,Professional,Karen,Yes,2024-02-01
+C00148,Crystal Pham,37,Male,Professional,Karen,Yes,2023-07-07
+C00149,Lisa Byrd,56,Male,Remote Worker,Runda,Yes,2022-10-24
+C00150,Stephanie Lucas,37,Female,Regular,Kilimani,Yes,2024-04-11
+C00151,Amanda Diaz,65,Male,Student,Karen,Yes,2022-10-08
+C00152,Edward Burgess,23,Male,Student,Karen,Yes,2023-02-22
+C00153,Richard Walter,18,Female,Student,CBD,No,2024-10-05
+C00154,Susan Rivas,20,Male,Professional,Kilimani,No,2023-11-02
+C00155,Terry Coffey,47,Male,Remote Worker,Karen,No,2024-02-28
+C00156,Gina Wilson,58,Male,Remote Worker,CBD,Yes,2022-04-16
+C00157,Vincent Dalton,27,Female,Student,Karen,Yes,2025-01-11
+C00158,Regina Diaz,37,Female,Student,CBD,Yes,2025-01-02
+C00159,Joshua Gibson,62,Female,Remote Worker,Kilimani,Yes,2023-11-18
+C00160,Samantha Bentley,23,Male,Professional,CBD,No,2022-07-28
+C00161,Kaitlyn Harvey,19,Male,Professional,Karen,No,2026-06-05
+C00162,Leonard Holland,54,Male,Tourist,Kilimani,Yes,2025-08-07
+C00163,Elizabeth Ortiz,29,Female,Remote Worker,Runda,No,2022-11-03
+C00164,Andrew Ferrell,29,Female,Regular,CBD,No,2022-08-21
+C00165,Stephen Taylor,44,Female,Professional,Kilimani,No,2025-07-05
+C00166,Travis Horton,39,Female,Regular,CBD,Yes,2026-03-31
+C00167,Patrick Moore,53,Male,Regular,CBD,Yes,2025-03-07
+C00168,Sandra Gilbert,25,Female,Student,Runda,No,2024-01-12
+C00169,Jacob Ramos,52,Female,Student,CBD,Yes,2023-08-29
+C00170,Ariana Jennings,57,Female,Professional,CBD,No,2026-04-13
+C00171,Maria Brown,53,Male,Student,Kilimani,Yes,2023-12-31
+C00172,Bryan Charles,25,Male,Remote Worker,Runda,No,2025-07-08
+C00173,Daniel Fowler,37,Male,Remote Worker,Runda,Yes,2021-10-31
+C00174,Gavin Zhang,25,Female,Student,Westlands,Yes,2026-06-15
+C00175,Ronald Spencer,63,Female,Student,Runda,No,2026-08-21
+C00176,Sergio Murphy,48,Female,Professional,Karen,Yes,2022-11-27
+C00177,Linda Ramirez,30,Male,Student,Westlands,Yes,2022-11-18
+C00178,Ms. Rebecca Rodriguez,44,Female,Remote Worker,Runda,Yes,2021-11-14
+C00179,Hunter Kramer,64,Female,Student,Runda,Yes,2024-05-27
+C00180,Derek Martinez,27,Female,Remote Worker,Runda,Yes,2025-03-25
+C00181,Nichole Alvarez,52,Female,Professional,CBD,No,2024-09-23
+C00182,Ashley Gordon,62,Male,Regular,Runda,Yes,2022-01-07
+C00183,Susan Hopkins,44,Male,Regular,Kilimani,No,2024-03-20
+C00184,Victor Brown,42,Female,Remote Worker,Karen,Yes,2025-09-22
+C00185,Jessica Rodriguez,50,Female,Student,Westlands,No,2025-06-04
+C00186,Bobby Franklin,51,Female,Professional,Westlands,No,2022-03-18
+C00187,Marcus Richards,59,Male,Professional,Westlands,Yes,2024-06-01
+C00188,Kyle Phillips,39,Female,Regular,Westlands,No,2025-12-13
+C00189,Annette Miles,52,Female,Regular,Kilimani,Yes,2026-05-04
+C00190,Cindy Hayes,49,Male,Regular,Runda,Yes,2023-08-05
+C00191,Ronald Ross,36,Male,Professional,Westlands,Yes,2022-06-17
+C00192,Erik Scott,58,Male,Student,CBD,Yes,2022-12-13
+C00193,Kara Davis,19,Male,Student,Kilimani,No,2022-05-18
+C00194,Brent Rodgers,41,Female,Student,Karen,Yes,2022-10-04
+C00195,Laurie Hoffman,61,Male,Professional,Karen,Yes,2024-06-15
+C00196,Jennifer Russo,42,Male,Professional,CBD,No,2025-04-01
+C00197,Michelle Schmitt,47,Female,Student,CBD,Yes,2024-04-22
+C00198,Kenneth Lewis,47,Female,Student,Runda,Yes,2025-10-02
+C00199,Brian Bruce,40,Female,Professional,CBD,No,2024-10-10
+C00200,Donald Perez,37,Male,Professional,CBD,No,2025-04-20
+C00201,Vanessa Cardenas,42,Female,Student,Runda,Yes,2026-05-21
+C00202,Timothy Gallegos,19,Female,Remote Worker,Kilimani,Yes,2023-12-04
+C00203,Donald Farmer,65,Male,Regular,Runda,No,2024-07-16
+C00204,Christopher Thomas,36,Male,Tourist,Runda,No,2025-01-22
+C00205,Patrick Bonilla,30,Female,Student,Karen,Yes,2022-06-07
+C00206,Cindy Barnes,59,Male,Regular,Kilimani,No,2024-07-20
+C00207,Eric Nguyen,41,Male,Student,Westlands,No,2026-06-24
+C00208,Sophia Moore,44,Male,Professional,Karen,Yes,2022-01-27
+C00209,Denise Stanley,41,Female,Professional,Karen,Yes,2025-10-12
+C00210,Jennifer Lewis,48,Female,Tourist,Kilimani,No,2026-01-03
+C00211,Jeffrey Campbell,22,Male,Professional,Karen,No,2025-10-15
+C00212,Elizabeth Walker,43,Female,Remote Worker,Westlands,No,2022-02-12
+C00213,Eric Clark,52,Male,Student,CBD,Yes,2022-10-26
+C00214,Donna Wilson,34,Female,Remote Worker,Kilimani,Yes,2025-11-18
+C00215,Casey James,19,Female,Student,Runda,Yes,2023-08-10
+C00216,Sandra Drake,47,Female,Student,CBD,Yes,2022-04-06
+C00217,Patrick Graham,20,Female,Student,CBD,Yes,2025-07-24
+C00218,Shannon Johnston,52,Male,Student,CBD,Yes,2026-07-12
+C00219,Mark Roberts,65,Female,Remote Worker,Runda,No,2025-02-04
+C00220,Frederick Solis,44,Male,Student,CBD,Yes,2025-07-25
+C00221,Tamara Davis,35,Male,Regular,Kilimani,Yes,2022-07-20
+C00222,Kevin Warren,33,Female,Professional,Westlands,No,2025-01-06
+C00223,Nichole Walker,59,Female,Professional,Westlands,Yes,2023-01-30
+C00224,Mark Schmidt,25,Female,Student,Westlands,No,2023-04-20
+C00225,Hannah Luna,56,Male,Professional,Westlands,No,2022-11-27
+C00226,Charles Gonzalez,26,Male,Student,Westlands,No,2022-12-13
+C00227,Mary Thompson,55,Male,Professional,Karen,Yes,2025-11-08
+C00228,Justin Riley,56,Male,Student,Kilimani,No,2026-06-14
+C00229,Victoria Morris,26,Female,Student,Karen,Yes,2024-05-04
+C00230,Barry Ramos,26,Male,Regular,Kilimani,No,2024-03-23
+C00231,Leslie Bell,38,Male,Student,Karen,Yes,2022-04-13
+C00232,Jesse Brown,44,Male,Student,Westlands,Yes,2024-02-03
+C00233,Sean Wyatt,50,Male,Remote Worker,CBD,Yes,2025-12-18
+C00234,Kevin Best,20,Female,Regular,CBD,Yes,2021-12-31
+C00235,Robert Pearson,48,Female,Student,CBD,No,2024-05-20
+C00236,Kathryn Rosario,46,Male,Professional,Westlands,Yes,2025-06-25
+C00237,Steven Cooper,26,Female,Student,Runda,Yes,2022-05-15
+C00238,Carrie Wright,38,Female,Professional,Runda,Yes,2025-05-17
+C00239,Kelly Bishop MD,56,Female,Professional,Westlands,No,2024-01-21
+C00240,Raymond Shelton,59,Male,Student,CBD,Yes,2022-02-04
+C00241,Maria Jones,39,Female,Student,CBD,Yes,2022-06-15
+C00242,Jasmine King,45,Female,Student,Kilimani,Yes,2022-12-06
+C00243,Kevin Thomas,48,Male,Student,Westlands,No,2024-08-16
+C00244,Matthew Bates,24,Female,Student,Karen,Yes,2022-09-30
+C00245,Teresa Collins,53,Female,Professional,Westlands,Yes,2024-11-08
+C00246,Erin Anderson,45,Male,Regular,Kilimani,Yes,2026-02-16
+C00247,Michael Romero,54,Male,Professional,Karen,No,2021-10-21
+C00248,Christopher Lewis,24,Female,Student,Runda,Yes,2025-10-14
+C00249,Zachary Moore,54,Male,Remote Worker,CBD,No,2024-03-01
+C00250,Ashley Wise,57,Male,Regular,Runda,No,2026-02-16
+C00251,George Miranda,35,Male,Tourist,Karen,Yes,2022-10-07
+C00252,Brittany White,39,Female,Remote Worker,Westlands,Yes,2023-01-22
+C00253,Amanda Diaz,60,Female,Student,Westlands,Yes,2023-09-02
+C00254,Lisa Goodwin,19,Male,Professional,Runda,Yes,2025-06-20
+C00255,David Sheppard,39,Male,Professional,Kilimani,Yes,2025-08-22
+C00256,Cheyenne Gregory,54,Male,Professional,Westlands,Yes,2026-07-03
+C00257,Mrs. Diane Reyes,21,Male,Remote Worker,Kilimani,Yes,2026-02-19
+C00258,Christopher Gonzalez,56,Female,Professional,CBD,Yes,2022-10-29
+C00259,Amy Castillo,25,Female,Remote Worker,CBD,Yes,2024-10-22
+C00260,Ashley Singleton,55,Female,Remote Worker,Runda,No,2022-09-17
+C00261,Phillip Nelson,43,Male,Student,Westlands,Yes,2026-01-06
+C00262,Jeffrey Potts,26,Female,Regular,Kilimani,Yes,2023-07-16
+C00263,Stacey Arias,65,Female,Student,Karen,Yes,2025-03-07
+C00264,Jonathan Young,32,Female,Professional,Westlands,Yes,2022-05-06
+C00265,Alfred Galvan,45,Male,Remote Worker,CBD,No,2024-07-02
+C00266,Brenda Mitchell,54,Female,Regular,Runda,Yes,2025-09-01
+C00267,Brenda Thornton,36,Male,Professional,CBD,Yes,2025-06-19
+C00268,Susan Smith,57,Female,Professional,Kilimani,Yes,2023-06-27
+C00269,Kimberly Acosta,33,Female,Tourist,Runda,Yes,2026-02-20
+C00270,Ricardo Young,37,Female,Student,Karen,Yes,2022-09-08
+C00271,Jason Bauer,50,Male,Student,Runda,Yes,2025-07-16
+C00272,Russell Porter,40,Female,Regular,Karen,Yes,2026-03-18
+C00273,Jose Allen,30,Male,Student,Runda,Yes,2022-11-15
+C00274,Aaron Gomez,22,Male,Remote Worker,CBD,Yes,2026-07-03
+C00275,Matthew Miller,55,Female,Professional,Runda,Yes,2024-09-19
+C00276,Joseph Romero,38,Female,Regular,Karen,Yes,2025-12-20
+C00277,Jeanette Harrison,58,Female,Professional,Kilimani,Yes,2024-12-09
+C00278,Mrs. Alexis Kramer,22,Female,Professional,CBD,Yes,2024-08-01
+C00279,Matthew Garcia,36,Male,Student,Westlands,Yes,2026-08-07
+C00280,Evelyn Williams,47,Male,Professional,CBD,No,2026-04-18
+C00281,Marvin Greer,30,Female,Professional,Runda,Yes,2025-08-08
+C00282,Mrs. Catherine Taylor,21,Female,Student,Westlands,No,2025-07-17
+C00283,Dakota Moody,63,Male,Tourist,Runda,Yes,2022-01-03
+C00284,Eric Sanders,63,Female,Student,CBD,Yes,2026-04-09
+C00285,Andrew Lucas,41,Female,Professional,Kilimani,Yes,2024-01-31
+C00286,Richard Glenn,61,Male,Remote Worker,Kilimani,Yes,2024-06-22
+C00287,Robert Kim,61,Female,Student,Kilimani,Yes,2025-01-19
+C00288,Stephanie Hughes,56,Male,Regular,Kilimani,Yes,2023-03-29
+C00289,Jonathan Glass MD,40,Female,Remote Worker,CBD,Yes,2022-05-09
+C00290,Angela Morrison,23,Female,Remote Worker,Runda,Yes,2023-03-09
+C00291,Erica Miller,26,Male,Remote Worker,CBD,Yes,2024-03-01
+C00292,Lance Simmons,37,Male,Student,Karen,Yes,2025-06-05
+C00293,Andrew Berg,30,Male,Remote Worker,Karen,Yes,2024-08-25
+C00294,Jessica Fowler,24,Male,Student,Kilimani,No,2022-02-20
+C00295,Mark Cox,56,Female,Professional,Karen,Yes,2023-01-05
+C00296,Brenda Lawson,57,Male,Tourist,CBD,Yes,2025-05-18
+C00297,Austin Osborne,64,Male,Professional,CBD,Yes,2024-10-07
+C00298,Travis Johnson,46,Male,Remote Worker,Runda,Yes,2022-12-15
+C00299,Tiffany Watson,48,Male,Regular,Kilimani,No,2022-04-21
+C00300,Kendra Sanders,46,Female,Professional,Kilimani,No,2024-01-08
+C00301,Brian Fitzgerald,44,Male,Professional,Karen,No,2025-11-23
+C00302,Susan Wilson,34,Male,Student,CBD,No,2023-11-12
+C00303,Cindy Carr,24,Male,Professional,Kilimani,Yes,2025-10-30
+C00304,Chad Jones,46,Male,Student,CBD,Yes,2023-02-13
+C00305,Jill Miller,46,Female,Regular,Westlands,Yes,2024-05-14
+C00306,Michelle Pierce,41,Male,Professional,CBD,No,2024-02-14
+C00307,Sarah Joseph,19,Female,Professional,Westlands,No,2023-02-17
+C00308,Katie Martinez,27,Male,Professional,Westlands,Yes,2023-05-12
+C00309,Cynthia Snyder,62,Male,Tourist,CBD,Yes,2024-09-20
+C00310,Jackie Lara,23,Male,Student,Kilimani,Yes,2026-05-05
+C00311,Stephen Jones,64,Female,Student,Westlands,No,2025-01-14
+C00312,Dr. Kelly Hammond DVM,25,Male,Student,Karen,Yes,2022-04-12
+C00313,Evan Jones,47,Male,Remote Worker,Westlands,No,2025-08-12
+C00314,Haley Humphrey,52,Male,Professional,Runda,Yes,2026-05-04
+C00315,Catherine Burch,36,Female,Remote Worker,Westlands,Yes,2025-05-01
+C00316,Sheena Guerra,44,Male,Student,Westlands,Yes,2026-01-21
+C00317,Christopher Morris,51,Male,Professional,CBD,No,2023-07-27
+C00318,Todd Jacobson,42,Female,Student,Kilimani,No,2022-04-28
+C00319,Mark Pierce,22,Female,Professional,Karen,No,2022-09-18
+C00320,Lisa Davis,55,Female,Professional,Karen,Yes,2023-01-31
+C00321,Lauren Jackson,59,Male,Professional,CBD,No,2024-07-09
+C00322,Kristy Bryan,29,Male,Professional,Westlands,No,2021-11-22
+C00323,Travis Wise,20,Female,Regular,Karen,Yes,2023-11-26
+C00324,Pamela Butler,20,Female,Student,Kilimani,Yes,2021-11-28
+C00325,Mr. Dylan Frye MD,52,Female,Regular,Kilimani,Yes,2025-02-07
+C00326,Benjamin Brown,36,Female,Professional,Westlands,No,2025-05-22
+C00327,John Peterson,25,Female,Professional,CBD,No,2022-11-15
+C00328,Nathan Gross,42,Female,Remote Worker,Karen,Yes,2024-08-03
+C00329,Bianca Wood,51,Female,Professional,Westlands,No,2026-06-05
+C00330,David Martinez,56,Male,Student,Runda,Yes,2025-06-22
+C00331,Brent Roberts,38,Female,Student,Kilimani,Yes,2024-12-01
+C00332,Jennifer Estes,28,Female,Remote Worker,Kilimani,Yes,2023-01-04
+C00333,Taylor Griffith,40,Female,Remote Worker,Kilimani,Yes,2023-04-07
+C00334,Kathleen Robertson,21,Male,Remote Worker,CBD,Yes,2025-11-22
+C00335,Kathleen Davis,61,Male,Tourist,Westlands,Yes,2024-12-29
+C00336,Tracy Lewis,46,Male,Professional,Karen,Yes,2024-08-26
+C00337,Douglas Harper,41,Female,Remote Worker,CBD,No,2025-08-27
+C00338,Adam Rodriguez,27,Female,Student,Kilimani,Yes,2022-10-16
+C00339,Monica Gallagher,54,Male,Remote Worker,Runda,Yes,2024-10-05
+C00340,Anthony Hoffman,35,Male,Professional,Westlands,Yes,2024-09-25
+C00341,Angel Gordon,51,Female,Student,Runda,Yes,2026-04-30
+C00342,William Becker,63,Female,Remote Worker,Karen,No,2022-08-30
+C00343,Brent Brooks,49,Male,Student,Westlands,Yes,2024-07-14
+C00344,Holly Thomas,29,Female,Student,Westlands,No,2025-12-24
+C00345,Andrew Williams,38,Female,Regular,Westlands,Yes,2024-06-25
+C00346,Kelly Hernandez,37,Male,Student,Karen,No,2026-01-13
+C00347,Timothy Flores,25,Male,Professional,Karen,Yes,2024-12-28
+C00348,Nancy Evans MD,41,Female,Professional,CBD,No,2025-12-26
+C00349,Michelle Evans,57,Male,Professional,Westlands,Yes,2021-10-16
+C00350,Michael Whitney,64,Female,Regular,Runda,Yes,2026-08-13
+C00351,Steven Wiggins,54,Male,Professional,Karen,No,2021-11-16
+C00352,Deborah Rios,46,Female,Professional,Runda,Yes,2026-07-28
+C00353,Mikayla Silva,53,Male,Regular,Karen,Yes,2023-02-06
+C00354,Michelle Hampton,21,Male,Regular,Runda,Yes,2024-11-19
+C00355,Michael Johnson,38,Male,Student,Kilimani,No,2022-08-02
+C00356,Jeremy Barnes,36,Male,Professional,Kilimani,Yes,2025-03-01
+C00357,Jennifer Hampton,35,Male,Regular,Kilimani,Yes,2025-08-30
+C00358,Nancy Brown,59,Male,Student,Runda,No,2022-10-29
+C00359,Kristina Bolton,60,Female,Student,Runda,Yes,2025-09-20
+C00360,Emily Thompson,23,Male,Regular,Runda,Yes,2026-03-09
+C00361,Hector Ingram,54,Female,Student,Runda,Yes,2023-11-25
+C00362,Cheryl Wright,58,Female,Professional,Kilimani,Yes,2026-05-25
+C00363,Todd Hendrix,61,Female,Tourist,Kilimani,Yes,2024-02-09
+C00364,Melissa Burns,28,Female,Remote Worker,CBD,Yes,2025-09-24
+C00365,Timothy Pope,56,Male,Student,Kilimani,No,2023-12-23
+C00366,Kenneth Daniels,40,Female,Professional,Karen,No,2025-01-02
+C00367,Tina Ballard,24,Female,Professional,Karen,Yes,2024-02-14
+C00368,Tyler Miller,33,Male,Student,Westlands,Yes,2025-05-31
+C00369,Nicole Lewis,57,Female,Regular,Karen,No,2026-03-26
+C00370,Justin Nelson,38,Female,Regular,Karen,No,2022-07-31
+C00371,Laurie Sanchez,50,Female,Professional,CBD,No,2026-03-02
+C00372,David Garcia,23,Female,Professional,Runda,Yes,2024-06-17
+C00373,Ashlee Townsend,55,Female,Student,Westlands,Yes,2021-09-11
+C00374,Vanessa Moore,59,Female,Professional,Kilimani,Yes,2025-09-11
+C00375,Curtis Maynard,45,Male,Tourist,Kilimani,No,2024-05-19
+C00376,Anthony Mack,41,Male,Remote Worker,CBD,Yes,2026-07-14
+C00377,Parker Jefferson,41,Female,Professional,Westlands,Yes,2021-12-19
+C00378,Carrie Khan,53,Female,Professional,Runda,No,2023-02-23
+C00379,Amanda Huff,24,Female,Student,Kilimani,No,2025-11-12
+C00380,Paul Brennan,41,Male,Professional,Karen,Yes,2024-02-11
+C00381,Alexandra Bradley,20,Male,Professional,Westlands,Yes,2022-07-25
+C00382,Frances Gibson,48,Female,Professional,Karen,Yes,2026-04-09
+C00383,Stacy Anderson,38,Female,Professional,Karen,Yes,2025-12-09
+C00384,Corey Rodriguez,37,Female,Professional,Runda,No,2023-01-12
+C00385,Mariah Higgins,63,Female,Professional,CBD,No,2021-10-08
+C00386,Rachel Bradley,61,Male,Professional,CBD,Yes,2023-04-18
+C00387,Scott Prince,64,Male,Remote Worker,Runda,Yes,2025-04-15
+C00388,Angie Caldwell,55,Male,Regular,Westlands,Yes,2023-03-23
+C00389,Mrs. Taylor Smith,58,Female,Student,Karen,No,2024-11-29
+C00390,Paul Finley,54,Male,Student,Karen,Yes,2024-03-21
+C00391,Laura Green,27,Female,Professional,Karen,Yes,2024-09-16
+C00392,Amy Wilson,48,Male,Remote Worker,Karen,Yes,2024-04-05
+C00393,Michael Leblanc,60,Female,Professional,Runda,Yes,2024-04-18
+C00394,Margaret Shepard,47,Female,Regular,Runda,Yes,2024-10-10
+C00395,Colleen Anderson,64,Female,Remote Worker,Runda,Yes,2022-12-14
+C00396,William Brooks,35,Female,Regular,Karen,No,2026-04-28
+C00397,Nicole Pham,36,Male,Regular,CBD,Yes,2023-07-05
+C00398,Melanie Larson,64,Female,Professional,Kilimani,Yes,2022-05-07
+C00399,Kelsey Cox,42,Female,Remote Worker,Kilimani,No,2026-06-13
+C00400,Ronald Leach,36,Male,Tourist,Kilimani,No,2023-05-16
+C00401,Brittany Murphy,46,Female,Student,CBD,Yes,2026-01-28
+C00402,Michael Love,35,Female,Tourist,Karen,Yes,2025-10-22
+C00403,Jordan Stokes,33,Male,Remote Worker,Westlands,No,2025-07-04
+C00404,Jason Elliott,58,Male,Professional,Westlands,Yes,2026-05-28
+C00405,Robert Cummings,48,Male,Professional,Karen,Yes,2025-01-07
+C00406,Aaron Robinson,28,Female,Professional,CBD,Yes,2022-04-09
+C00407,Gregory Brown,36,Female,Student,Kilimani,Yes,2022-03-01
+C00408,Andrea Peck,23,Male,Regular,Runda,No,2021-12-02
+C00409,Christopher Taylor,20,Male,Regular,CBD,No,2025-03-24
+C00410,Steven West,20,Female,Student,CBD,Yes,2024-11-10
+C00411,Michael Stanley,36,Male,Remote Worker,Westlands,Yes,2026-03-28
+C00412,Scott Wilson,39,Female,Professional,CBD,No,2026-03-22
+C00413,Cameron Irwin,49,Male,Professional,Runda,Yes,2021-09-05
+C00414,Veronica Ford,25,Female,Student,Karen,No,2026-04-13
+C00415,James Hall,63,Male,Professional,Westlands,No,2025-07-27
+C00416,Donald Pineda,54,Male,Remote Worker,Karen,Yes,2022-08-11
+C00417,Matthew Mendez,43,Female,Professional,Runda,Yes,2021-10-13
+C00418,Austin Wheeler,24,Male,Professional,Karen,Yes,2025-06-13
+C00419,Michele Williams,18,Female,Regular,CBD,Yes,2022-01-10
+C00420,David Robinson,39,Female,Remote Worker,Runda,No,2022-02-17
+C00421,Wyatt Young,59,Female,Student,Karen,Yes,2026-07-20
+C00422,Kyle Chambers,37,Male,Student,CBD,No,2024-05-18
+C00423,Shawn Odom,63,Female,Regular,Westlands,Yes,2026-01-31
+C00424,Eric Brown,41,Male,Regular,Karen,No,2023-02-21
+C00425,Jessica Simpson,47,Female,Professional,CBD,No,2024-07-31
+C00426,Megan Floyd,52,Male,Regular,Karen,No,2024-05-12
+C00427,Jennifer Evans,23,Female,Professional,Runda,No,2023-03-20
+C00428,Kara Atkinson,54,Male,Student,Westlands,No,2024-03-17
+C00429,Brianna Ford,30,Male,Regular,Karen,Yes,2022-02-21
+C00430,Tracy Grant,25,Male,Professional,Runda,Yes,2022-10-16
+C00431,David Rivera,46,Male,Regular,CBD,Yes,2022-04-28
+C00432,Sarah Davis,54,Male,Professional,Runda,Yes,2023-04-09
+C00433,James Jacobs,64,Male,Tourist,CBD,Yes,2021-12-26
+C00434,Chelsea Gill,31,Male,Student,Westlands,Yes,2026-05-28
+C00435,Daniel Meadows,52,Male,Remote Worker,Westlands,No,2024-03-24
+C00436,Alexis Giles,36,Female,Professional,Karen,No,2022-08-25
+C00437,Nicole Rocha,64,Female,Remote Worker,Kilimani,No,2023-05-23
+C00438,David Morris,42,Female,Professional,Westlands,No,2024-01-22
+C00439,Joseph Howard,52,Male,Remote Worker,Kilimani,Yes,2023-11-16
+C00440,Stephen Owens,43,Male,Regular,Karen,No,2025-08-23
+C00441,Erica Harris,37,Female,Remote Worker,Runda,Yes,2024-04-24
+C00442,Justin Walker,32,Male,Professional,CBD,Yes,2022-11-22
+C00443,Juan Silva,64,Male,Student,Westlands,No,2025-03-15
+C00444,Craig Hall,19,Male,Professional,Karen,Yes,2026-07-01
+C00445,Kathryn Pena,46,Male,Professional,Karen,No,2024-07-09
+C00446,Roberto Levy,32,Male,Professional,Westlands,Yes,2025-10-28
+C00447,Nicholas Bell,32,Female,Regular,Runda,Yes,2022-11-03
+C00448,Katherine Stark,38,Male,Remote Worker,Kilimani,No,2026-04-06
+C00449,Tina Warren DVM,51,Male,Regular,CBD,Yes,2022-04-13
+C00450,Mary Duran,55,Male,Student,CBD,Yes,2025-02-27
+C00451,Mark Jones,40,Female,Student,Runda,Yes,2022-12-08
+C00452,Jonathan Brooks,27,Female,Professional,CBD,Yes,2025-10-05
+C00453,Alexis Patel,33,Male,Professional,Kilimani,No,2025-02-23
+C00454,Joseph Hill,47,Male,Student,Runda,Yes,2024-02-02
+C00455,Robert Craig,51,Male,Professional,CBD,Yes,2023-03-05
+C00456,Brent Hernandez,59,Male,Student,CBD,No,2023-04-14
+C00457,Dawn Gomez,64,Male,Student,Westlands,Yes,2025-01-10
+C00458,Tyler Stevens,56,Male,Remote Worker,Westlands,Yes,2023-09-20
+C00459,Courtney Sutton DVM,64,Male,Remote Worker,CBD,Yes,2021-12-02
+C00460,James Tran,37,Male,Regular,Karen,No,2022-02-16
+C00461,Michele Miller,25,Female,Regular,Karen,No,2025-05-05
+C00462,Erin Madden,43,Male,Remote Worker,Runda,Yes,2022-06-18
+C00463,Tamara Hall,47,Female,Student,Kilimani,Yes,2026-06-21
+C00464,Anthony Jones,49,Female,Professional,Westlands,No,2024-01-14
+C00465,Kristy Johnson,38,Male,Remote Worker,Kilimani,Yes,2024-04-29
+C00466,Daniel Thomas,32,Male,Student,Westlands,Yes,2025-01-14
+C00467,Elizabeth Elliott,55,Female,Regular,Kilimani,Yes,2026-06-21
+C00468,Jasmine Mosley,42,Male,Professional,CBD,Yes,2024-06-21
+C00469,Patrick Gibbs,39,Female,Regular,CBD,No,2022-04-26
+C00470,Valerie Brown,49,Female,Professional,Karen,No,2025-05-14
+C00471,Billy Jacobs,26,Female,Professional,Karen,No,2025-01-09
+C00472,Erin Walters,59,Male,Professional,Runda,Yes,2025-06-25
+C00473,Henry Pugh MD,60,Male,Tourist,Westlands,Yes,2026-08-20
+C00474,Angelica Montgomery,32,Male,Tourist,Karen,Yes,2023-09-30
+C00475,Angela Moore,41,Male,Professional,Runda,Yes,2022-12-18
+C00476,Emily Rodriguez,48,Female,Regular,Westlands,Yes,2021-09-11
+C00477,Jill Juarez,18,Male,Professional,Runda,No,2022-07-09
+C00478,Cody Cole,36,Male,Professional,Runda,No,2026-05-15
+C00479,Ashley Davis,29,Male,Remote Worker,Westlands,Yes,2026-05-13
+C00480,Kyle Nguyen,57,Female,Student,Kilimani,Yes,2024-12-04
+C00481,Jason Maxwell,41,Female,Professional,CBD,Yes,2026-05-30
+C00482,Vanessa Armstrong,32,Female,Regular,Westlands,No,2023-02-03
+C00483,Caroline Adams,20,Male,Regular,CBD,Yes,2023-12-07
+C00484,Arthur Hamilton MD,21,Male,Professional,Karen,Yes,2025-10-08
+C00485,Heather Raymond,59,Female,Tourist,Runda,No,2025-11-13
+C00486,Christina Rodriguez,51,Male,Regular,Karen,Yes,2024-03-29
+C00487,James Skinner,54,Female,Regular,Kilimani,Yes,2024-11-18
+C00488,Erin Cook,35,Male,Student,Karen,No,2022-10-22
+C00489,Larry Dominguez,31,Male,Professional,CBD,No,2025-09-22
+C00490,Vincent Novak,54,Male,Student,Runda,No,2024-02-17
+C00491,Mackenzie Faulkner,52,Female,Professional,CBD,No,2023-09-18
+C00492,Douglas Hartman,62,Male,Student,Runda,No,2024-10-03
+C00493,Justin Vargas,24,Female,Professional,Karen,No,2026-04-17
+C00494,Randall Johnson,57,Female,Professional,Kilimani,Yes,2025-07-30
+C00495,Christine Salinas,46,Female,Student,Karen,Yes,2022-03-28
+C00496,Rebecca Ortiz,45,Male,Regular,Runda,No,2025-11-24
+C00497,Eric King,57,Female,Student,Karen,No,2022-12-17
+C00498,Rachel Jones,27,Female,Student,Karen,No,2025-09-22
+C00499,Kimberly Mclean,24,Male,Professional,Westlands,No,2025-03-17
+C00500,Rachel Ward,35,Male,Professional,Karen,Yes,2026-03-21
