@@ -14,3 +14,7 @@ __pycache__/
 # macOS / Windows
 .DS_Store
 Thumbs.db
+
+# Microsoft Office temp files
+~$*
+*.tmp
