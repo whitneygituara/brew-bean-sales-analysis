@@ -62,3 +62,121 @@ Interactive Dashboard
     │
     ▼
 Business Insights
+
+## 📊 Dashboard Features
+
+The dashboard provides interactive insights into:
+
+- 💰 Total Revenue
+- 🛒 Total Transactions
+- 👥 Total Customers
+- 📈 Average Sales Value
+- ⭐ Customer Loyalty Percentage
+- 🏪 Revenue by Branch
+- ☕ Revenue by Product Category
+- 🥐 Top Selling Products
+- 💳 Payment Method Distribution
+- 📅 Monthly Revenue Trend
+
+## 📷 Dashboard Preview
+
+> **Insert your dashboard screenshot here**
+
+Example:
+
+```markdown
+![Dashboard](images/dashboard.png)
+```
+
+## 🔍 Key Insights
+
+- Revenue exceeded **KES 35 million** during the reporting period.
+- Coffee products generated the highest share of total revenue.
+- Branch performance remained relatively balanced across all locations.
+- Over **60%** of customers were enrolled in the loyalty programme.
+- Customers used Cash, Credit Card, Debit Card, and M-Pesa in relatively equal proportions.
+
+## 💡 Business Recommendations
+
+- Continue investing in high-performing coffee products.
+- Expand the customer loyalty programme.
+- Monitor branch performance regularly to identify improvement opportunities.
+- Use the dashboard to support data-driven business decisions.
+
+## 📁 Repository Structure
+
+```text
+Project-01/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── Brew_Bean_EDA.ipynb
+│
+├── powerbi/
+│   └── Brew_Bean_Dashboard.pbix
+│
+├── reports/
+│   └── Brew_Bean_Coffee_Sales_Analysis_Report.pdf
+│
+├── images/
+│   ├── dashboard.png
+│   └── data_model.png
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Project-01.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd Project-01
+```
+
+### Create and activate a virtual environment
+
+**Windows (Git Bash)**
+
+```bash
+python -m venv .venv
+source .venv/Scripts/activate
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open the notebook in the `notebooks` folder to explore the data preparation and analysis process.
+
+## 📄 Project Report
+
+A detailed report describing the project methodology, dashboard design, business insights, and recommendations is available in the `reports` folder.
+
+## 👤 Author
+
+**Ms. Whitney Gituara**
+
+Aspiring Data Analyst | Business Intelligence Enthusiast
+
+## ⭐ Acknowledgements
+
+This project was developed as part of my personal data analytics portfolio to demonstrate practical skills in Python, data analysis, and Power BI dashboard development.
+
