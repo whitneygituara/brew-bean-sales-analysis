@@ -14,15 +14,51 @@ This project demonstrates an end-to-end Business Intelligence workflow using Pyt
 - Measure branch profitability.
 - Build interactive dashboards for business decision-making.
 
-## Tech Stack
+## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Excel
-- Power BI
-- Git & GitHub
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib
+- **Jupyter Notebook**
+- **Microsoft Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Git & GitHub**
 
-## Project Status
+## 📂 Dataset
 
-🚧 Phase 1: Business Understanding
+The project uses transactional sales data for Brew & Bean Coffee consisting of approximately **50,000 transactions** across multiple related tables.
+
+The dataset includes:
+
+- Transactions
+- Customers
+- Products
+- Branches
+- Employees
+
+## 🔄 Project Workflow
+
+```text
+Raw Data
+    │
+    ▼
+Data Cleaning (Python)
+    │
+    ▼
+Exploratory Data Analysis
+    │
+    ▼
+Cleaned Datasets
+    │
+    ▼
+Power BI Data Model
+    │
+    ▼
+DAX Measures
+    │
+    ▼
+Interactive Dashboard
+    │
+    ▼
+Business Insights
