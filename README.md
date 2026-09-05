@@ -135,13 +135,13 @@ Project-01/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Project-01.git
+git clone https://github.com/whitneygituara/brew-bean-sales-analysis.git
 ```
 
 ### Navigate to the project folder
 
 ```bash
-cd Project-01
+cd brew-bean-sales-analysis
 ```
 
 ### Create and activate a virtual environment
