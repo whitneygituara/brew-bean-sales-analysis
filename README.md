@@ -62,7 +62,7 @@ Interactive Dashboard
     │
     ▼
 Business Insights
-
+```
 ## 📊 Dashboard Features
 
 The dashboard provides interactive insights into:
@@ -80,13 +80,13 @@ The dashboard provides interactive insights into:
 
 ## 📷 Dashboard Preview
 
-> **Insert your dashboard screenshot here**
+![Brew & Bean Coffee Sales Analysis Dashboard](images/Dashboard.png)
 
-Example:
+## 🗂️ Data Model
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
+![Data Model](images/Data_model.png)
+
+
 
 ## 🔍 Key Insights
 
@@ -128,6 +128,7 @@ Project-01/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## 🚀 Getting Started
 
